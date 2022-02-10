@@ -8,7 +8,7 @@ e pequenos cards com informações a respeito do planeta clicado.
 
 Foi desenvolvido em 12/08/2021.
 
-![solarsystem](C:\Users\Uriel\Documents\solar-system\solarsystem.gif) 
+![solarsystem](https://i.imgur.com/gDeHxXQ.gif) 
 
 
 
