@@ -102,7 +102,7 @@ button{
 }
 
 .mercury{
-  transition: 2s ease;
+  transition: 0.9s ease;
   background-image: url(./images/mercury.jpg);
   position: fixed;
   top: 0;
@@ -113,7 +113,7 @@ button{
 }
 
 .venus{
-  transition: 2s ease;
+  transition: 0.9s ease;
   background-image: url(./images/venusback.jpg);
   position: fixed;
   top: 0;
@@ -124,7 +124,7 @@ button{
 }
 
 .earth{
-  transition: 2s ease;
+  transition: 0.9s ease;
   background-image: url(./images/earth.jpg);
   position: fixed;
   top: 0;
@@ -135,7 +135,7 @@ button{
 }
 
 .mars{
-  transition: 2s ease;
+  transition: 0.9s ease;
   background-image: url(./images/marsback.jpg);
   position: fixed;
   top: 0;
@@ -146,7 +146,7 @@ button{
 }
 
 .jupiter{
-  transition: 2s ease;
+  transition: 0.9s ease;
   background-image: url(./images/jupiterBack.jpg);
   position: fixed;
   top: 0;
@@ -156,7 +156,7 @@ button{
 }
 
 .saturn{
-  transition: 2s ease;
+  transition: 0.9s ease;
   background-image: url(./images/SaturnBack.jpg);
   position: fixed;
   top: 0;
@@ -166,7 +166,7 @@ button{
 }
 
 .uranus{
-  transition: 2s ease;
+  transition: 0.9s ease;
   background-image: url(./images/uranusBack.jpg);
   position: fixed;
   top: 0;
@@ -176,7 +176,7 @@ button{
 }
 
 .neptune{
-  transition: 2s ease;
+  transition: 0.9s ease;
   background-image: url(./images/neptuneBack.jpg);
   position: fixed;
   top: 0;
